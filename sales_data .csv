@@ -1,0 +1,66 @@
+Product,Region,Sales,Profit,Discount,Category,Date
+Laptop,North,1200,300.0,0.1,Electronics,2023-01-05
+Keyboard,South,75,25.0,0.05,Accessories,2023-01-10
+Printer,East,350,100.0,0.15,Office Supplies,2023-01-15
+Desk,West,500,150.0,0.2,Furniture,2023-01-20
+Mouse,North,30,10.0,0.0,Accessories,2023-01-25
+Monitor,South,800,200.0,0.1,Electronics,2023-01-30
+Paper,East,50,15.0,0.05,Office Supplies,2023-02-05
+Chair,West,250,75.0,0.1,Furniture,2023-02-10
+Headphones,North,100,30.0,0.0,Accessories,2023-02-15
+Tablet,South,600,180.0,0.12,Electronics,2023-02-20
+Pens,East,20,5.0,0.0,Office Supplies,2023-02-25
+Bookcase,West,400,120.0,0.15,Furniture,2023-03-01
+USB Drive,North,40,12.0,0.0,Accessories,2023-03-05
+Smartphone,South,900,270.0,0.08,Electronics,2023-03-10
+Folders,East,35,10.0,0.0,Office Supplies,2023-03-15
+Lamp,West,150,45.0,0.1,Furniture,2023-03-20
+Webcam,North,80,24.0,0.0,Accessories,2023-03-25
+Smartwatch,South,300,90.0,0.05,Electronics,2023-03-30
+Stapler,East,25,7.0,0.0,Office Supplies,2023-04-05
+File Cabinet,West,600,180.0,0.2,Furniture,2023-04-10
+External Hard Drive,North,150,45.0,0.0,Accessories,2023-04-15
+TV,South,1500,450.0,0.1,Electronics,2023-04-20
+Calculator,East,30,9.0,0.0,Office Supplies,2023-04-25
+Sofa,West,800,240.0,0.15,Furniture,2023-04-30
+Wireless Router,North,120,36.0,0.0,Accessories,2023-05-05
+Digital Camera,South,400,120.0,0.08,Electronics,2023-05-10
+Notebooks,East,45,13.0,0.0,Office Supplies,2023-05-15
+Coffee Table,West,200,60.0,0.1,Furniture,2023-05-20
+Bluetooth Speaker,North,90,27.0,0.0,Accessories,2023-05-25
+Gaming Console,South,700,210.0,0.12,Electronics,2023-05-30
+Office Chair,East,180,54.0,0.1,Furniture,2023-06-01
+Projector,West,550,165.0,0.18,Electronics,2023-06-05
+Flash Drive,North,25,7.5,0.0,Accessories,2023-06-10
+E-reader,South,280,84.0,0.05,Electronics,2023-06-15
+Sticky Notes,East,15,4.5,0.0,Office Supplies,2023-06-20
+Side Table,West,120,36.0,0.1,Furniture,2023-06-25
+Cable,North,18,5.4,0.0,Accessories,2023-06-30
+Fitness Tracker,South,150,45.0,0.0,Electronics,2023-07-05
+Pencil,East,8,2.4,0.0,Office Supplies,2023-07-10
+Bookshelf,West,350,105.0,0.12,Furniture,2023-07-15
+SD Card,North,35,10.5,0.0,Accessories,2023-07-20
+Portable Charger,South,80,24.0,0.0,Electronics,2023-07-25
+Highlighters,East,12,3.6,0.0,Office Supplies,2023-07-30
+End Table,West,90,27.0,0.08,Furniture,2023-08-05
+Screen Protector,North,20,6.0,0.0,Accessories,2023-08-10
+Wireless Earbuds,South,110,33.0,0.0,Electronics,2023-08-15
+Paper Clips,East,5,1.5,0.0,Office Supplies,2023-08-20
+Dresser,West,450,135.0,0.15,Furniture,2023-08-25
+Phone Case,North,22,6.6,0.0,Accessories,2023-08-30
+Monitor Stand,North,55,16.5,0.0,Accessories,2023-09-05
+VR Headset,South,600,180.0,0.1,Electronics,2023-09-10
+Whiteboard,East,90,27.0,0.08,Office Supplies,2023-09-15
+Couch,West,900,270.0,0.15,Furniture,2023-09-20
+Laptop Stand,North,40,12.0,0.0,Accessories,2023-09-25
+Speakers,South,250,75.0,0.05,Electronics,2023-09-30
+Printer Paper,East,20,6.0,0.0,Office Supplies,2023-10-05
+Bookshelf,West,450,135.0,0.15,Furniture,2023-10-10
+Tablet Case,North,30,9.0,0.0,Accessories,2023-10-15
+Wireless Keyboard,South,80,24.0,0.05,Electronics,2023-10-20
+Desk Lamp,East,45,13.5,0.0,Office Supplies,2023-10-25
+Dining Table,West,750,225.0,0.12,Furniture,2023-10-30
+Gaming Mouse,North,70,21.0,0.0,Accessories,2023-11-05
+Smart Speaker,South,180,54.0,0.08,Electronics,2023-11-10
+Sticky Tape,East,10,3.0,0.0,Office Supplies,2023-11-15
+Office Desk,West,500,150.0,0.1,Furniture,2023-11-20
